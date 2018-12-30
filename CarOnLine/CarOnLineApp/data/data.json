@@ -1,0 +1,41 @@
+{
+	"Brands": [{
+		"name": "Fiat",
+		"nation": "Italy"
+	}, {
+		"name": "Ford",
+		"nation": "USA"
+	}],
+	"Cars": [{
+		"brand": "Fiat",
+		"model": "500",
+		"price": 11350,
+		"available": 500
+	}, {
+		"brand": "Fiat",
+		"model": "Panda", 
+		"price": 9245,
+		"available": 1864
+	}, {
+		"brand": "Ford",
+		"model": "Fiesta",
+		"price": 13795,
+		"available": 100
+	
+	}, {
+		"brand": "Ford",
+		"model": "Focus",
+		"price": 19595,
+		"available": 200
+	
+	}],
+	"Customers": [{
+		"name": "James",
+		"surname": "Lowry",
+		"phone": "8675309553"
+	}, {
+		"name": "Pauline",
+		"surname": "Garrait",
+		"phone": "123456789"
+	}]
+}
